@@ -1,11 +1,11 @@
 
 
-public class WeekdaysJava {
+public class Weekdays {
   public static void main(String[] args) {
-    System.out.println(Weekdays(1, 1, 1, 12));
+    System.out.println(weekdays(1, 1, 1, 12));
   }
 
-  public static int Weekdays(int first_month, int first_day, int second_month, int second_day)
+  public static int weekdays(int first_month, int first_day, int second_month, int second_day)
   {
     int[] month_list = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
     int[] WEEKEND = { 2, 3 };
