@@ -1,4 +1,4 @@
-author: Patrick Coffey
+This is a problem that I wrote for my school's ACM programming contest for high school students in Wisconsin.
 
 Given 2 dates as integers month1, day1, month2, day2 in 2021, be able to find the number of weekdays between them. Include the first date but not the second. You will need to determine which day of the week that the dates are. Valid dates are any in 2021. Jan 1, 2021 is a Friday.
 
